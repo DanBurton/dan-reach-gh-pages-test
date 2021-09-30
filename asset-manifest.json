@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dan-reach-gh-pages-test/static/css/main.7b595fec.chunk.css",
+    "main.js": "/dan-reach-gh-pages-test/static/js/main.e8ffb1e2.chunk.js",
+    "main.js.map": "/dan-reach-gh-pages-test/static/js/main.e8ffb1e2.chunk.js.map",
+    "runtime-main.js": "/dan-reach-gh-pages-test/static/js/runtime-main.3330b5cd.js",
+    "runtime-main.js.map": "/dan-reach-gh-pages-test/static/js/runtime-main.3330b5cd.js.map",
+    "static/js/2.b4a236ce.chunk.js": "/dan-reach-gh-pages-test/static/js/2.b4a236ce.chunk.js",
+    "static/js/2.b4a236ce.chunk.js.map": "/dan-reach-gh-pages-test/static/js/2.b4a236ce.chunk.js.map",
+    "index.html": "/dan-reach-gh-pages-test/index.html",
+    "static/css/main.7b595fec.chunk.css.map": "/dan-reach-gh-pages-test/static/css/main.7b595fec.chunk.css.map",
+    "static/js/2.b4a236ce.chunk.js.LICENSE.txt": "/dan-reach-gh-pages-test/static/js/2.b4a236ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3330b5cd.js",
+    "static/js/2.b4a236ce.chunk.js",
+    "static/css/main.7b595fec.chunk.css",
+    "static/js/main.e8ffb1e2.chunk.js"
+  ]
+}
