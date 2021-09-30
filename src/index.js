@@ -6,7 +6,10 @@ import {renderDOM, renderView} from './views/render';
 import './index.css';
 import * as backend from './build/index.main.mjs';
 import {loadStdlib} from '@reach-sh/stdlib';
-const reach = loadStdlib(process.env);
+const reach = loadStdlib({
+  REACH_CONNECTOR_MODE: 'CFX',
+  REACH_DEBUG: 'yes',
+});
 reach.setProviderByName('TestNet');
 
 const handToInt = {'ROCK': 0, 'PAPER': 1, 'SCISSORS': 2};
